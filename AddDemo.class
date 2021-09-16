@@ -1,5 +1,9 @@
 class AddDemo 
 {
+void sub()
+{
+System.out.println("Added sub method");
+}
 public static void main(String args[])
 {
   System.out.println("hai");
